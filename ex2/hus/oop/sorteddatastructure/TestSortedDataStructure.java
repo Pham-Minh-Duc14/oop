@@ -9,22 +9,6 @@ public class TestSortedDataStructure {
         testSortedArrayList();
         System.out.println("\n--- Test MySortedLinkedList ---");
         testSortedLinkedList();
-
-         /*
-         Yêu cầu:
-         - Hoàn thiện code chương trình theo mẫu đã cho. (Done)
-         - Viết code để test cho tất cả các hàm test bên dưới. (Done)
-
-         - Thực hiện chạy từng hàm test theo format: (Done via System.out.println in main)
-               Tên test:
-               Kết quả chạy chương trình.
-
-           Lưu kết quả chạy chương trình và file text được đặt tên
-           là <TenSinhVien_MaSinhVien_SortedDataStructure>.txt (Ví dụ, NguyenVanA_123456_SortedDataStructure.txt).
-         - Nén các file source code và file text kết quả chạy chương trình vào file zip có tên
-           <TenSinhVien_MaSinhVien_SortedDataStructure>.zip (Ví dụ, NguyenVanA_123456_SortedDataStructure.zip),
-           nộp lên classroom.
-          */
     }
 
     public static void testSortedArrayList() {
